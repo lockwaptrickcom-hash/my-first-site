@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: #101820;
+  color: white;
+}
+
+.card {
+  width: 85%;
+  max-width: 420px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 20px;
+  background: #182630;
+}
+
+button {
+  padding: 12px 20px;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}
